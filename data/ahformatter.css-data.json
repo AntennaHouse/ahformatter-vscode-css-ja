@@ -4731,7 +4731,7 @@
         } ],
       "name": "-ah-media-flash-context-menu",
       "description": {
-        "value": "リッチメディアにFlashを埋め込むとき、Flashのコンテキストメニューを表示するのかどうかを指定します。\n\ntrue | false",
+        "value": "リッチメディアにFlashを埋め込むとき、Flashのコンテキストメニューを表示するかどうかを指定します。\n\ntrue | false",
         "kind": "markdown"
       }
     },
