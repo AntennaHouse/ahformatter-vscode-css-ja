@@ -1,6 +1,6 @@
 # AH Formatter CSS 拡張プロパティ
 
-[AH Formatter](https://www.antenna.co.jp/AHF)拡張の [CSS プロパティ](https://www.antenna.co.jp/AHF/help/ja/ahf-focss6.html)に、オートコンプリートやホバー情報を CSS ファイルで提供する VS Code 拡張です。
+[AH Formatter](https://www.antenna.co.jp/AHF) の [CSS拡張プロパティ](https://www.antenna.co.jp/AHF/help/ja/ahf-focss6.html)を利用した CSSファイルにオートコンプリートやホバー情報を提供する VS Code拡張機能です。
 
 この拡張機能は、グローバルまたは個々のワークスペースに対して有効にすることができます。
 
