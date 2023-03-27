@@ -2,7 +2,7 @@
   "name": "ahformatter-vscode-css-ja",
   "displayName": "AH Formatter CSS 拡張",
   "description": "AH Formatter CSS 拡張",
-  "version": "7.2.4",
+  "version": "7.3.2",
   "publisher": "AntennaHouse",
   "icon": "images/ahformatter-vscode-css-ja.png",
   "repository": "https://github.com/AntennaHouse/ahformatter-vscode-css",
