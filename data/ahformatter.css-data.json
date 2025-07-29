@@ -1480,6 +1480,10 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/structure\/axf-region-1.pdf"
         },
         {
+          "name": "境界線の種類や太さ（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/line-style-1.pdf"
+        },
+        {
           "name": "表のボーダーとパディング（FO）",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/table\/table-border-padding-1.pdf"
         }
@@ -1500,6 +1504,10 @@
         {
           "name": "ページの各領域と境界線（FO）",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/structure\/axf-region-1.pdf"
+        },
+        {
+          "name": "境界線の種類や太さ（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/line-style-1.pdf"
         },
         {
           "name": "表のボーダーとパディング（FO）",
@@ -1571,6 +1579,10 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/structure\/axf-region-1.pdf"
         },
         {
+          "name": "境界線の種類や太さ（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/line-style-1.pdf"
+        },
+        {
           "name": "表のボーダーとパディング（FO）",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/table\/table-border-padding-1.pdf"
         }
@@ -1591,6 +1603,10 @@
         {
           "name": "ページの各領域と境界線（FO）",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/structure\/axf-region-1.pdf"
+        },
+        {
+          "name": "境界線の種類や太さ（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/line-style-1.pdf"
         },
         {
           "name": "表のボーダーとパディング（FO）",
@@ -1804,6 +1820,10 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/structure\/axf-region-1.pdf"
         },
         {
+          "name": "境界線の種類や太さ（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/line-style-1.pdf"
+        },
+        {
           "name": "表のボーダーとパディング（FO）",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/table\/table-border-padding-1.pdf"
         }
@@ -1824,6 +1844,10 @@
         {
           "name": "ページの各領域と境界線（FO）",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/structure\/axf-region-1.pdf"
+        },
+        {
+          "name": "境界線の種類や太さ（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/line-style-1.pdf"
         },
         {
           "name": "表のボーダーとパディング（FO）",
@@ -2005,6 +2029,10 @@
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/structure\/axf-region-1.pdf"
         },
         {
+          "name": "境界線の種類や太さ（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/line-style-1.pdf"
+        },
+        {
           "name": "表のボーダーとパディング（FO）",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/table\/table-border-padding-1.pdf"
         }
@@ -2025,6 +2053,10 @@
         {
           "name": "ページの各領域と境界線（FO）",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/structure\/axf-region-1.pdf"
+        },
+        {
+          "name": "境界線の種類や太さ（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/line-style-1.pdf"
         },
         {
           "name": "表のボーダーとパディング（FO）",
@@ -2977,26 +3009,44 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.diagonal-border-color"
-        } ],
+        },
+        {
+          "name": "ボーダーによる対角罫（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-diagonal-border-color",
       "description": { "value": "対角罫の色を指定します。\n\n&lt;color>","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.diagonal-border-style"
-        } ],
+        },
+        {
+          "name": "ボーダーによる対角罫（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-diagonal-border-style",
       "description": { "value": "対角罫のスタイルを指定します。\n\n&lt;border-style>","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.diagonal-border-width"
-        } ],
+        },
+        {
+          "name": "ボーダーによる対角罫（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-diagonal-border-width",
       "description": { "value": "対角罫の幅を指定します。\n\n&lt;border-width>","kind": "markdown" }
     },
@@ -3093,10 +3143,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.double-hyphen-translineation"
-        } ],
+        },
+        {
+          "name": "ハイフンの位置で改行したとき行頭にもハイフンを置く（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/line\/axf-double-hyphen-translineation-1.pdf"
+        }
+      ],
       "name": "-ah-double-hyphen-translineation",
       "description": { "value": "ハイフンの位置での行分割でハイフンを行頭にも置くかどうか指定します。\n\nauto | true | false","kind": "markdown" }
     },
@@ -4726,39 +4782,6 @@
     {
       "references": [ {
           "name": "Antenna House Formatter マニュアル",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.initial-letters-leading-punctuation"
-        } ],
-      "name": "-ah-initial-letters-leading-punctuation",
-      "description": {
-        "value": "ドロップキャップの先行する約物の大きさなどを指定します。\n\nnormal | hide | [&lt;length> || &lt;color>]",
-        "kind": "markdown"
-      }
-    },
-    {
-      "references": [ {
-          "name": "Antenna House Formatter マニュアル",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.initial-letters-leading-punctuation-position"
-        } ],
-      "name": "-ah-initial-letters-leading-punctuation-position",
-      "description": {
-        "value": "ドロップキャップの先行する約物の行進行方向の位置を指定します。\n\nnormal | [[hang | intrude] && &lt;length>?]",
-        "kind": "markdown"
-      }
-    },
-    {
-      "references": [ {
-          "name": "Antenna House Formatter マニュアル",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.initial-letters-leading-punctuation-shift"
-        } ],
-      "name": "-ah-initial-letters-leading-punctuation-shift",
-      "description": {
-        "value": "ドロップキャップの先行する約物のブロック進行方向の位置を指定します。\n\nnormal | [[baseline | before | middle | after] || &lt;length>]",
-        "kind": "markdown"
-      }
-    },
-    {
-      "references": [ {
-          "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.initial-letters-start-intrusion"
         } ],
       "name": "-ah-initial-letters-start-intrusion",
@@ -4962,6 +4985,16 @@
         "value": "keep-together.within-line 条件の上限幅を指定します。\n\nall | &lt;length>",
         "kind": "markdown"
       }
+    },
+    {
+      "references": [ { "name": "XSL 1.1","url": "https:\/\/www.w3.org\/TR\/xsl11\/#keep-with-next" } ],
+      "name": "-ah-keep-with-next",
+      "description": { "value": "<keep>","kind": "markdown" }
+    },
+    {
+      "references": [ { "name": "XSL 1.1","url": "https:\/\/www.w3.org\/TR\/xsl11\/#keep-with-previous" } ],
+      "name": "-ah-keep-with-previous",
+      "description": { "value": "<keep>","kind": "markdown" }
     },
     {
       "references": [
@@ -6586,26 +6619,44 @@
       "description": { "value": "組版に必要な のバージョンを指定します。\n\n&lt;string>","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.reverse-diagonal-border-color"
-        } ],
+        },
+        {
+          "name": "ボーダーによる対角罫（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-reverse-diagonal-border-color",
       "description": { "value": "逆対角罫の色を指定します。\n\n&lt;color>","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.reverse-diagonal-border-style"
-        } ],
+        },
+        {
+          "name": "ボーダーによる対角罫（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-reverse-diagonal-border-style",
       "description": { "value": "逆対角罫のスタイルを指定します。\n\n&lt;border-style>","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.reverse-diagonal-border-width"
-        } ],
+        },
+        {
+          "name": "ボーダーによる対角罫（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/block\/axf-diagonal-border-1.pdf"
+        }
+      ],
       "name": "-ah-reverse-diagonal-border-width",
       "description": { "value": "逆対角罫の幅を指定します。\n\n&lt;border-width>","kind": "markdown" }
     },
@@ -6887,10 +6938,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ruby.html#axf.ruby-offset"
-        } ],
+        },
+        {
+          "name": "ルビの配置（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/ruby\/axf-ruby-3.pdf"
+        }
+      ],
       "name": "-ah-ruby-offset",
       "description": {
         "value": "ルビと親文字の間隔を指定します。\n\n&lt;number> | &lt;length> | &lt;percentage>",
@@ -6932,10 +6989,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ruby.html#axf.ruby-position"
-        } ],
+        },
+        {
+          "name": "ルビの配置（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/ruby\/axf-ruby-3.pdf"
+        }
+      ],
       "name": "ruby-position",
       "description": {
         "value": "ルビを親文字のどちら側に付けるか指定します。\n\nbefore | after | [[ over | under | inter-character ] || [ right | left ]]",
@@ -6943,10 +7006,16 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ruby.html#axf.ruby-position"
-        } ],
+        },
+        {
+          "name": "ルビの配置（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/ruby\/axf-ruby-3.pdf"
+        }
+      ],
       "name": "-ah-ruby-position",
       "description": {
         "value": "ルビを親文字のどちら側に付けるか指定します。\n\nbefore | after | [[ over | under | inter-character ] || [ right | left ]]",
@@ -6958,6 +7027,10 @@
         {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ruby.html#axf.ruby-small-kana"
+        },
+        {
+          "name": "ルビの配置（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/ruby\/axf-ruby-3.pdf"
         },
         {
           "name": "ルビ文字の外観（FO）",
@@ -7030,18 +7103,30 @@
       }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.font-face"
-        } ],
+        },
+        {
+          "name": "axf:font-face で追加したフォントのUnicode範囲を指定、およびフォントサイズを調整する（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/character\/axf-font-face-2.pdf"
+        }
+      ],
       "name": "size-adjust",
       "description": { "value": "☞ &lt;axf:font-face size-adjust>","kind": "markdown" }
     },
     {
-      "references": [ {
+      "references": [
+        {
           "name": "Antenna House Formatter マニュアル",
           "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.font-face"
-        } ],
+        },
+        {
+          "name": "axf:font-face で追加したフォントのUnicode範囲を指定、およびフォントサイズを調整する（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/character\/axf-font-face-2.pdf"
+        }
+      ],
       "name": "-ah-size-adjust",
       "description": { "value": "☞ &lt;axf:font-face size-adjust>","kind": "markdown" }
     },
@@ -8259,16 +8344,50 @@
     {
       "references": [ {
           "name": "Antenna House Formatter マニュアル",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.font-face"
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.unicode-bidi"
         } ],
-      "name": "unicode-range",
-      "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
+      "name": "unicode-bidi",
+      "description": {
+        "value": "normal | embed | isolate | bidi-override | isolate-override | plaintext",
+        "kind": "markdown"
+      }
     },
     {
       "references": [ {
           "name": "Antenna House Formatter マニュアル",
-          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.font-face"
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.unicode-bidi"
         } ],
+      "name": "-ah-unicode-bidi",
+      "description": {
+        "value": "normal | embed | isolate | bidi-override | isolate-override | plaintext",
+        "kind": "markdown"
+      }
+    },
+    {
+      "references": [
+        {
+          "name": "Antenna House Formatter マニュアル",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.font-face"
+        },
+        {
+          "name": "axf:font-face で追加したフォントのUnicode範囲を指定、およびフォントサイズを調整する（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/character\/axf-font-face-2.pdf"
+        }
+      ],
+      "name": "unicode-range",
+      "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
+    },
+    {
+      "references": [
+        {
+          "name": "Antenna House Formatter マニュアル",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/help\/ja\/ahf-ext.html#axf.font-face"
+        },
+        {
+          "name": "axf:font-face で追加したフォントのUnicode範囲を指定、およびフォントサイズを調整する（FO）",
+          "url": "https:\/\/www.antenna.co.jp\/AHF\/ahf_samples\/ja\/fo\/character\/axf-font-face-2.pdf"
+        }
+      ],
       "name": "-ah-unicode-range",
       "description": { "value": "☞ &lt;axf:font-face unicode-range>","kind": "markdown" }
     },
